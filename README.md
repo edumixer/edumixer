@@ -1,7 +1,8 @@
 # <a href="https://www.linkedin.com/in/eduardo-cristiano-franco/">Eduardo Franco</a> 👋
 
 ## Sobre mim
-Meu nome é Eduardo Franco, estudo na universidade Pontifícia Universidade Católica do Paraná(PUC-PR). Curso Ciência da Computação e estou no 1° ano do 3° semestre.
+Meu nome é Eduardo Franco, sou estudante de Ciência da Computação da PUC-PR e estou no 5° semestre.
+Atualmente trabalho com o Desenvolvimento Full Stack.
 <br>
 
 ## Conhecimentos nas tecnologias :books:
