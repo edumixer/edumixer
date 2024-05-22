@@ -1,6 +1,9 @@
 # <a href="https://www.linkedin.com/in/eduardo-cristiano-franco/">Eduardo Franco</a> 👋
 <div align='center'>
-  <img width=70% src="./banner.jpg"/>
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/eduardo-cristiano-franco/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  </div>
 </div>
 
 <div align='center'>
