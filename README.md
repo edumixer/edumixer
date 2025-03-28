@@ -19,16 +19,15 @@
 
 ## My Stacks
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,nodejs,dart,flutter,nextjs,cpp,cs,python,java,spring&theme=dark" />
-<img src="https://skillicons.dev/icons?i=docker,azure,tailwind,mongodb,mysql,prisma,postman,vite,figma,vscode,visualstudio,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,react,nodejs,nest,dart,flutter,nextjs,cpp,cs,python&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,docker,azure,tailwind,mongodb,postgres,mysql,prisma,vite,figma,vscode,visualstudio,git,github&theme=dark" />
 
 ## About me
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Hello! My name is Eduardo Franco and I'm a Full Stack Developer. <br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> My current goal is to enhance my technical skills even further as a developer.<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> My main stack is HTML, CSS, Javascript, Typescript, React, NextJS, Chakra UI, TailwindCSS, Node JS.<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> I always try to be a polite and respectful person, and I love interacting with new people and sharing my story.<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Left Speech Bubble" width="25" height="25" /> Want to talk about technology, games or sports? Send a message!
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> My main stack is Java, Javascript, NodeJS, Typescript, NextJS, NestJS.<br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Left Speech Bubble" width="25" height="25" /> Want to talk about technology, codes, games or sports? Send a message!
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Orange%20Heart.png" alt="Orange Heart" width="25" height="25" /> Check out my [portfolio](https://edufranco-portfolio.netlify.app/)!
 
 <br />
